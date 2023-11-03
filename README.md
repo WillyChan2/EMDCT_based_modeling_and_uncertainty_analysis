@@ -77,5 +77,6 @@ The scripts contain 3 parts, including the pre-processing_on_investigation_data,
 
 ## Notice
 
-The authors do not have permission to share data, so the data provided is only intended to show the data format at each step of the implicit modeling approach presented in this paper.
+- The authors do not have permission to share data, so the data provided is only intended to show the data format at each step of the implicit modeling approach presented in this paper.
 
+- The zip files is encrypted. Please contact Willy Chan to get the password.
